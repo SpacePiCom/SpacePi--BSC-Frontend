@@ -1,0 +1,4 @@
+export default {
+  title: ['SpacePi dan', ' Pi Network'],
+  text: "Sebagai sebahagian daripada ekosistem Pi Network, hakikat SpacePi dan kedudukannya sebagai pendorong utama bagi nilai dan masa depan Pi Network sangat mempengaruhi kesedaran global, skenario aplikasi, dan nilai Pi Network. Dengan memanfaatkan kekuatan komuniti yang kuat dan mekanisme konsensus, SpacePi meningkatkan kecairan dan kepelbagaian Pi Network dan meningkatkan ketaraannya secara global melalui pemasaran strategik.\n\nManakala Musk bermimpi untuk menubuhkan peradaban manusia di Mars, komuniti SpacePi mendorong batasan budaya dan teknologi dalam dunia digital dengan kreativiti dan teknologi. Mereka meneroka masa depan digital secara dalam talian, bersemangat untuk membuka jalan bagi kemungkinan baru melalui inovasi. Mereka percaya bahawa teknologi adalah enjin masa depan."
+}

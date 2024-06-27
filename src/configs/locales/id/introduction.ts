@@ -1,0 +1,4 @@
+export default {
+  title: ['SpacePi dan', ' Jaringan Pi'],
+  text: "Sebagai bagian dari ekosistem Jaringan Pi, esensi SpacePi dan posisinya sebagai kekuatan penggerak utama bagi nilai dan masa depan Jaringan Pi sangat memengaruhi kesadaran global, skenario aplikasi, dan nilai Jaringan Pi. Dengan memanfaatkan kekuatan komunitas yang kuat dan mekanisme konsensus, SpacePi meningkatkan likuiditas dan keragaman Jaringan Pi serta meningkatkan visibilitas globalnya melalui pemasaran strategis.\n\nSementara Musk bermimpi untuk mendirikan peradaban manusia di Mars, komunitas SpacePi mendorong batas-batas budaya dan teknologi di dunia digital dengan kreativitas dan teknologi. Mereka mengeksplorasi masa depan digital secara online, bersemangat untuk membuka kemungkinan baru melalui inovasi. Mereka percaya bahwa teknologi adalah mesin masa depan."
+}
