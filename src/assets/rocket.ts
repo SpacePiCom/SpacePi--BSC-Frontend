@@ -2,7 +2,7 @@ export default () => {
   const baseUrl =
     import.meta.env.MODE === "development"
       ? "rocket/"
-      : "https://bsv.space-pi.dev/rocket/";
+      : "https://bscpage.space-pi.com/rocket/";
   return {
     v: "5.6.9",
     fr: 30,

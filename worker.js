@@ -35,7 +35,7 @@ async function handleAPIRequest(request) {
 
 // Page handling logic
 async function handlePageRequest(request) {
-  const pageUrl = 'https://bsv.space-pi.dev/'; // Replace with the actual page address
+  const pageUrl = 'https://bscpage.space-pi.com/'; // Replace with the actual page address
   const response = await fetch(pageUrl, request);
   const modifiedHeaders = new Headers(response.headers);
   return new Response(response.body, {
