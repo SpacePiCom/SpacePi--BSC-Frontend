@@ -44,11 +44,11 @@ export default {
     ],
     links: [
         {
-            title: 'SpacePi ETH 質押',
+            title: 'SpacePi ETH',
             url: 'https://eth.space-pi.com'
         },
         {
-            title: 'SpacePi ETH 官網',
+            title: 'SpacePi 官網',
             url: 'https://space-pi.com'
         }
     ]

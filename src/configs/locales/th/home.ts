@@ -1,5 +1,5 @@
 export default {
-  title: 'มีมและ Pi Layer2',
+  title: 'SpaceX พบกับ Pi ใน MEME',
   text: "SpacePi (BSC) เป็น Memecoin ที่จัดองค์กรเองโดยสมาชิก Pi Network ที่อุทิศใจเองเพื่อส่งเสริมนิเวศของ Pi Network",
   bnt1: {
     title: 'ซื้อ SpacePi',
@@ -9,8 +9,8 @@ export default {
     title: 'Github',
     url: 'https://github.com/SpacePiCom'
   },
-  crossChain: '=>SOL',
-  crossChainUrl:"https://sol.space-pi.com/",
+  crossChain: 'SpacePi',
+  crossChainUrl:"https://space-pi.com/",
   totalCirculation: 'จำนวนวงจรรอบ',
   numberOfHolders: 'ผู้ถือ',
   currentPrice: 'ราคา',

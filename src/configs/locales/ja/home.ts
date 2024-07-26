@@ -1,5 +1,5 @@
 export default {
-  title: 'ミームとPi Layer2',
+  title: 'SpaceXがMEMEでπと出会う',
   text: "SpacePi（BSC）は、熱心なPi Networkメンバーによって自己組織化されたメームコインであり、Pi Networkエコシステムの促進を目的としています。",
   bnt1: {
     title: 'を購入',
@@ -9,8 +9,8 @@ export default {
     title: 'Github',
     url: 'https://github.com/SpacePiCom'
   },
-  crossChain: '=>SOL',
-  crossChainUrl:"https://sol.space-pi.com/",
+  crossChain: 'SpacePi',
+  crossChainUrl:"https://space-pi.com/",
   totalCirculation: '供給量',
   numberOfHolders: 'ホルダー数',
   currentPrice: '価格',

@@ -9,8 +9,8 @@ export default {
     title: 'Github',
     url: 'https://github.com/SpacePiCom'
   },
-  crossChain: '=>SOL',
-  crossChainUrl:"https://sol.space-pi.com/",
+  crossChain: 'SpacePi',
+  crossChainUrl:"https://space-pi.com/",
   totalCirculation: 'Supply',
   numberOfHolders: 'Holders',
   currentPrice: 'Price',
