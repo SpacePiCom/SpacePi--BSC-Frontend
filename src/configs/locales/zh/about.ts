@@ -3,6 +3,6 @@ export default {
   text: 'SpacePi (BSC) 是由虔誠的 Pi Network 成員自發組織的 Meme 代幣',
   bnt: {
     title: '白皮書',
-    url: 'https://xs.space-pi.com'
+    url: 'https://x.space-pi.com'
   }
 }

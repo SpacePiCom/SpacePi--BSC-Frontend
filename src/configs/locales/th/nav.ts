@@ -7,7 +7,7 @@ export default [
     },
     {
         name: 'เอกสารเชิงวิชาการ',
-        url: 'https://xs.space-pi.com',
+        url: 'https://x.space-pi.com',
         target: '_blank',
         data: []
     },

@@ -3,6 +3,6 @@ export default {
   text: 'มุ่งเน้นในการส่งเสริมการพัฒนาของนิเวศ Pi Network',
   bnt: {
     title: 'เรียนรู้เพิ่มเติม',
-    url: 'https://xs.space-pi.com'
+    url: 'https://x.space-pi.com'
   }
 }

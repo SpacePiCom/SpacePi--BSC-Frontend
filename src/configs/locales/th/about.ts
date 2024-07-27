@@ -3,6 +3,6 @@ export default {
   text: 'SpacePi (BSC) เป็นเหรียญมีมที่จัดองค์กรขึ้นเองโดยสมาชิก Pi Network ที่อุทิศใจเอง',
   bnt: {
     title: 'Whitepaper',
-    url: 'https://xs.space-pi.com'
+    url: 'https://x.space-pi.com'
   }
 }
